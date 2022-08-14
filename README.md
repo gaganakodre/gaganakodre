@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm ShreeGowri HD</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 <img src="https://i.gifer.com/JXA0.gif" alt="coding" align="right"width="400 align=right">
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/39305540757277.578c758b80108.gif" alt="coding" align="right"width="400 margin-left=20px">
 
