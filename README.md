@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gaganakodre&label=Profile%20views&color=0e75b6&style=flat" alt="gaganakodre" /> </p>
 
-- 🌱 I’m currently learning **C-sharp and python**
+- 🌱 I’m currently learning python** with django**
 
 - 📫 How to reach me **gaganandh@gmail.com**
 
